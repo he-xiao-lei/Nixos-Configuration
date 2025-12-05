@@ -19,7 +19,6 @@
   boot.loader.grub.device = "nodev";
   boot.loader.grub.efiSupport = true;
   networking.hostName = "nixos"; # Define your hostname.
-	aaa
   # Configure network connections interactively with nmcli or nmtui.
   networking.networkmanager.enable = true;
 
