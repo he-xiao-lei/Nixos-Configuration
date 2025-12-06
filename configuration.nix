@@ -11,6 +11,7 @@
       ./gnome.nix
       #./font.nix
       ./chinese.nix
+      ./neovim.nix
     ];
 
   # Use the systemd-boot EFI boot loader.
@@ -89,7 +90,6 @@
     tmux
     neofetch
     emacs
-    neovim
     clash-verge-rev
   ];
 
