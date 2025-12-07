@@ -92,6 +92,7 @@
     emacs
     clash-verge-rev
     vscode
+    appimage-run
   ];
   nixpkgs.config.allowUnfree = true;
   # Some programs need SUID wrappers, can be configured further or are
